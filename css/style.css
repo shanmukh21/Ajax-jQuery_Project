@@ -43,3 +43,15 @@ body {background-color: #CCC;}
 .article:first-child {
     border-top:none;
 }
+
+  footer {
+      font-weight: 800;
+      text-align: left;
+      color: #505050;
+      position: bottom-fixed;
+      left: 0;
+      bottom: 0;
+      height: 100px;
+      width: 100%;
+      overflow: hidden;
+  }
