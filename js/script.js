@@ -6,7 +6,7 @@ function loadData() {
     var $nytHeaderElem = $('#nytimes-header');
     var $nytElem = $('#nytimes-articles');
     var $greeting = $('#greeting');
-
+lijkn.m
     // clear out old data before new request
     $wikiElem.text("");
     $nytElem.text("");
